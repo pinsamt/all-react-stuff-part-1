@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const ParamAndStates = () => {
-  return (
-    <div>ParamAndStates</div>
-  )
-}
+  return <h1>Hej</h1>;
+};
 
-export default ParamAndStates
+export default ParamAndStates;

@@ -7,6 +7,7 @@ const Navigator = () => {
   const options = [
     { value: "", label: "Home" },
     { value: "ParamAStates", label: "ParamsAndSates" },
+    { value: "Forum", label: "Forum" },
   ];
 
   return (
